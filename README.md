@@ -21,7 +21,7 @@
 
 | Книга | RU | EN |
 | --- | --- | --- |
-| Джефф Эриксон — **Алгоритмы** | [Издание на русском](https://www.dmkpress.com/catalog/computer/programming/algorithms/978-5-97060-981-1/) | [PDF](<Books/Algorithms/Algorithms - Jeff Erickson/EN/Jeff Erickson - Algorithms.pdf>) |
+| Джефф Эриксон — **Алгоритмы** | [PDF, перевод издания 2019 года](<Books/Algorithms/Algorithms - Jeff Erickson/RU/Джефф Эриксон - Алгоритмы - 2019.pdf>) · [скачать](https://github.com/DSIFYB/ComputerLibrary/raw/refs/heads/main/Books/Algorithms/Algorithms%20-%20Jeff%20Erickson/RU/%D0%94%D0%B6%D0%B5%D1%84%D1%84%20%D0%AD%D1%80%D0%B8%D0%BA%D1%81%D0%BE%D0%BD%20-%20%D0%90%D0%BB%D0%B3%D0%BE%D1%80%D0%B8%D1%82%D0%BC%D1%8B%20-%202019.pdf) | [PDF](<Books/Algorithms/Algorithms - Jeff Erickson/EN/Jeff Erickson - Algorithms.pdf>) |
 
 ### Операционные системы
 
@@ -48,8 +48,8 @@
 - **Computer Science from the Bottom Up:** [проект автора](https://github.com/ianw/bottomupcs), [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/). Перевод основан на издании 2013 года; надписи внутри схем оставлены на английском.
 - **Build Your Own Lisp:** [сайт автора](https://www.buildyourownlisp.com/), текст — [CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/); условия для кода и изображения указаны в оригинале.
 - **Beej’s Guide to C Programming:** [сайт и условия автора](https://beej.us/guide/bgc/); русский PDF сокращён и содержит примечания к отдельным примерам.
-- **Beej’s Guide to Network Programming:** [оригинал и переводы на сайте автора](https://beej.us/guide/bgnet/). Русский перевод — Андрей Косенко, версия 3.0.15 (2012); английский — версия 3.3.3 (2026). Условия указаны внутри соответствующих файлов.
-- **Algorithms:** Джефф Эриксон, [сайт автора](https://jeffe.web.engr.illinois.edu/teaching/algorithms/); английский учебник — [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Русское издательское издание доступно по ссылке в каталоге.
+- **Beej’s Guide to Network Programming:** [оригинал и переводы на сайте автора](https://beej.us/guide/bgnet/). Английское издание 3.3.3 (2026) и его перевод с помощью ИИ доступны рядом с прежним переводом Андрея Косенко версии 3.0.15 (2012). Условия указаны внутри соответствующих файлов.
+- **Algorithms:** Джефф Эриксон, [сайт автора](https://jeffe.web.engr.illinois.edu/teaching/algorithms/); первое издание 2019 года — [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Русский перевод подготовлен с помощью ИИ и проверен выборочно; [подробности и ограничения](<Books/Algorithms/Algorithms - Jeff Erickson/README.md>).
 - **Operating Systems: Three Easy Pieces:** [сайт авторов](https://pages.cs.wisc.edu/~remzi/OSTEP/). Авторы предоставляют главы бесплатно и просят ссылаться на них; русский перевод доступен у издателя.
 
 При спорных технических деталях сверяйся с оригиналом и актуальной документацией.
